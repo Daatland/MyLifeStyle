@@ -7,8 +7,14 @@ og strukturert kode.
 ## Screenshots
 
 <p align="center">
-  <img src="screenshots/home_light.png" width="250">
-  <img src="screenshots/nutrition_dark.png" width="250">
+  <img src="screenshots/homeCalorieView.png" width="220">
+  <img src="screenshots/homeExerciseView.png" width="220">
+  <img src="screenshots/addNutrition.png" width="220">
+</p>
+
+<p align="center">
+  <img src="screenshots/exerciseView.png" width="220">
+  <img src="screenshots/settings.png" width="220">
 </p>
 
 ## Funksjonalitet
